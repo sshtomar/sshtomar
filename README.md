@@ -1,6 +1,6 @@
 # Hi, I'm Shubham
 
-ML engineer and GenAI consultant helping enterprise teams ship AI products that work. Currently Principal Consultant at for a Tech Consulting company, building production RAG systems, autonomous agents, and LLM infrastructure for energy and mining clients. Currently, helping one of [largest Mining companies in the world build GenAI solutions](https://x.com/shubhamtomar24/status/2023567406854271446). Previously at [Dataiku](https://www.dataiku.com/), [Coursera](https://www.coursera.org/), and [Udacity](https://www.udacity.com/).
+ML engineer and GenAI consultant helping enterprise teams ship AI products that work. Currently, Principal Consultant for a Tech Consulting company, building production RAG systems, autonomous agents, and LLM infrastructure for energy and mining clients. Currently, helping one of [largest Mining companies in the world build GenAI solutions](https://x.com/shubhamtomar24/status/2023567406854271446). Previously at [Dataiku](https://www.dataiku.com/), [Coursera](https://www.coursera.org/), and [Udacity](https://www.udacity.com/).
 
 ## What I'm working on
 
